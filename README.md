@@ -6,4 +6,6 @@
 [ปพ.1ด้านหลัง](ปพ.1ด้านหลัง.md)
 [Statement](Statement.md)
 [Certifcates](Certifcates.md)
-[Certifcates2.md](Certifcates2.md)
+[Certifcates2](Certifcates2.md)
+[Certifcates3](Certifcates3.md)
+
