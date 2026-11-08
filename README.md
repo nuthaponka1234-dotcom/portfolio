@@ -1,2 +1,2 @@
 # portfolio by Natthanicha  
-(ปก)[ปก.md]
+[ปก](ปก.md)
